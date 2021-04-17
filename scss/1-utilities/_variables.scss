@@ -1,0 +1,23 @@
+/* Variables only */
+
+// Colors
+$primary-clr: #5266ff;
+$secondary-clr: #feb75d;
+$dark-clr: #3b4147;
+$dark-grey-clr: #707b87;
+$mid-toned-clr: #a6b6c7;
+$light-clr: #f8f8fa;
+$white-clr: #fff;
+
+// Breakpoints
+$breakpoints: (
+  for-phone-only: 599px,
+  for-tablet-portrait-up: 600px,
+  for-tablet-landscape-up: 900px,
+  for-desktop-up: 1200px,
+  for-big-desktop-up: 1800px,
+);
+
+// Spacing
+$btn-padding: 0.6em 1em;
+$btn-icon-padding: 0.6em 0.8em;

@@ -1,0 +1,19 @@
+{
+  "name": "webmania-corporate-refacto",
+  "version": "1.0.0",
+  "description": "Webmania refacto",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/main.scss:css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webmania-tech/webmania.git"
+  },
+  "author": "Anna Ezzarani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webmania-tech/webmania/issues"
+  },
+  "homepage": "https://github.com/Webmania-tech/webmania#readme"
+}
